@@ -1,0 +1,23 @@
+version 1 :
+    added :
+        - Download Libraries
+        - Loading data from Local .csv
+        - Loading data from Google Drive
+        - Simple EDA
+        - View Output Data Imbalance
+        - Correlation Matrix
+        - Names and Unique Values of Non-Numerical Columns
+        - Plotting all Numeric Columns
+        - Plotting Categorical Columns
+        - Display Rows with Null
+        - Mapping Columns
+        - Dropping Useless Columns
+        - Dropping Rows
+        - Renaming Columns
+        - Test-Train Split
+        - Train-Validation Split
+        - Test-Train-Validation Split
+        - Standard Scaler
+        - Simple Model with Accuracy, Precision, Recall
+        - Confusion Matrix
+        - Simple Neural Network
