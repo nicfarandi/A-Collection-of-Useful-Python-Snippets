@@ -10,3 +10,4 @@ How to Use:
 3. output columns are noted as 'y'
 
 https://www.linkedin.com/in/nicholas-farandi-harjanto-7310402b1/
+https://github.com/nicfarandi/A-Collection-of-Useful-Python-Snippets
